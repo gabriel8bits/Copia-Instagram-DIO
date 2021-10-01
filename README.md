@@ -1,4 +1,4 @@
-# Bem vindo ao projeto "Copia do Instagram" :handshake:
+# Bem vindo ao projeto "Copia do Instagram" :hand:
 
 
 
